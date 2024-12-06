@@ -3,6 +3,7 @@
 - [Organize and Write Your Next Novel in Obsidian](https://pdworkman.com/write-book-with-obsidian/) by @pdworkman
 - [Using Obsidian For Writing Fiction & Notes](https://eleanorkonik.com/obsidian-for-writing/) by [[eleanorkonik|Eleanor Konik]]
 - [9 Must Have Obsidian Plugins for Writers](https://curtismchale.ca/2022/01/10/9-obsidian-writing-plugins/) by Curtis McHale
+- [How to Use Obsidian for Creative Writing](https://thealmoner.com/obsidian-creative-writing/) by Nathan Krupa
 
 **Using [[Zettelkasten]] for Creative Writing:**
 - [The Zettelkasten Method for Fiction IV - Creating Stories](https://zettelkasten.de/posts/zettelkasten-fiction-writing-part-4-create-story/) by Sascha on Zettelkasten.de
